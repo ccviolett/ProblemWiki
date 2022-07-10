@@ -2,6 +2,12 @@
 
 {% embed url="https://codeforces.com/problemset/problem/847/C" %}
 
+| 算法难度 | 思维难度 | 实现难度 | 推荐指数 |
+| :--: | :--: | :--: | :--: |
+|   0  |   3  |   2  |   4  |
+
+
+
 ```cpp
 #include <bits/stdc++.h>
 

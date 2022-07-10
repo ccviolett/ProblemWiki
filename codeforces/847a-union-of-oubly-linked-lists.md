@@ -2,7 +2,12 @@
 
 {% embed url="https://codeforces.com/problemset/problem/847/A" %}
 
-{% code title="main.cpp" %}
+| 算法难度 | 思维难度 | 实现难度 | 推荐指数 |
+| :--: | :--: | :--: | :--: |
+|   1  |   1  |   1  |   1  |
+
+
+
 ```cpp
 #include <bits/stdc++.h>
 
@@ -51,5 +56,3 @@ int main() {
 	return 0;
 }
 ```
-{% endcode %}
-
