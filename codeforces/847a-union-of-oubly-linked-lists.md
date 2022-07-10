@@ -1,4 +1,6 @@
-# 847A-Union of oubly Linked Lists
+# 847A - Union of oubly Linked Lists
+
+{% embed url="https://codeforces.com/problemset/problem/847/A" %}
 
 {% code title="main.cpp" %}
 ```cpp
