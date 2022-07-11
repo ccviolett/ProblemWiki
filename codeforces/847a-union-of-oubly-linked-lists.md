@@ -1,6 +1,13 @@
-# 847A-Union of oubly Linked Lists
+# 847A - Union of oubly Linked Lists
 
-{% code title="main.cpp" %}
+{% embed url="https://codeforces.com/problemset/problem/847/A" %}
+
+| 算法难度 | 思维难度 | 实现难度 | 推荐指数 |
+| :--: | :--: | :--: | :--: |
+|   1  |   1  |   1  |   1  |
+
+
+
 ```cpp
 #include <bits/stdc++.h>
 
@@ -49,5 +56,3 @@ int main() {
 	return 0;
 }
 ```
-{% endcode %}
-
