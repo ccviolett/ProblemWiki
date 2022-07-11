@@ -10,7 +10,6 @@
 | 推荐指数 |     5    |
 
 
-
 ```cpp
 #include <bits/stdc++.h>
 
