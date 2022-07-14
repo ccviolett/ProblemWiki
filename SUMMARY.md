@@ -1,6 +1,7 @@
 # Table of contents
 
 * [模板](README.md)
+* [Problem 2. Robot Instructions](readme-1.md)
 * [CodeForces](codeforces/README.md)
   * [687](codeforces/687/README.md)
     * [687A. NP-Hard Problem](codeforces/687/readme.md)
