@@ -1,7 +1,6 @@
 # Table of contents
 
 * [模板](README.md)
-* [Problem 2. Robot Instructions](readme-1.md)
 * [CodeForces](codeforces/README.md)
   * [687](codeforces/687/README.md)
     * [687A. NP-Hard Problem](codeforces/687/readme.md)
@@ -34,6 +33,7 @@
   * [2022 February](usaco/2022-february/README.md)
     * [Silver](usaco/2022-february/silver/README.md)
       * [Problem 1. Redistributing Gifts](usaco/2022-february/silver/problem-1.-redistributing-gifts.md)
+      * [Problem 2. Robot Instructions](usaco/2022-february/silver/readme.md)
   * [2022 US Open](usaco/2022-us-open/README.md)
     * [Silver](usaco/2022-us-open/silver/README.md)
       * [Problem 1. Visits](usaco/2022-us-open/silver/problem-1.-visits.md)
