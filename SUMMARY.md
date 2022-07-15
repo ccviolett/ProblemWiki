@@ -2,6 +2,9 @@
 
 * [模板](README.md)
 * [CodeForces](codeforces/README.md)
+  * [743](codeforces/743.md)
+  * [588](codeforces/588/README.md)
+    * [588B. Duff in Love](codeforces/588/readme.md)
   * [687](codeforces/687/README.md)
     * [687A. NP-Hard Problem](codeforces/687/readme.md)
   * [730](codeforces/730/README.md)
@@ -11,6 +14,7 @@
     * [730I. Olympiad in Programming and Sports](codeforces/730/readme-3.md)
   * [732](codeforces/732/README.md)
     * [732C. Sanatorium](codeforces/732/readme.md)
+  * [743C. Vladik and fractions](codeforces/readme.md)
   * [847](codeforces/847/README.md)
     * [847A. Union of oubly Linked Lists](codeforces/847/847a.-union-of-oubly-linked-lists.md)
     * [847B. Preparing for Merge Sort](codeforces/847/847b.-preparing-for-merge-sort.md)
